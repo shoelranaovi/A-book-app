@@ -1,4 +1,4 @@
-import { Navbarmenu } from "./components/Navbar";
+import  Navbarmenu  from "./components/Navbar";
 import ThemeProvider from "./components/ThemeProvider";
 
 import Fotter from "./components/Fotter";
